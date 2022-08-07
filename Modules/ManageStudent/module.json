@@ -1,0 +1,13 @@
+{
+    "name": "ManageStudent",
+    "alias": "managestudent",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\ManageStudent\\Providers\\ManageStudentServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

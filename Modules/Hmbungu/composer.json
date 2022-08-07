@@ -1,0 +1,23 @@
+{
+    "name": "nkoy/hmbungu",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nkoy Henock",
+            "email": "henocknkoy9@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Hmbungu\\": ""
+        }
+    }
+}

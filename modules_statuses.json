@@ -1,0 +1,10 @@
+{
+    "Hmbungu": true,
+    "Blog": false,
+    "Post": false,
+    "Comment": true,
+    "Publication": true,
+    "ManageStudent": true,
+    "ManageCourse": true,
+    "ManageUser": true
+}

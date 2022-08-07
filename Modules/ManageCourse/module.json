@@ -1,0 +1,13 @@
+{
+    "name": "ManageCourse",
+    "alias": "managecourse",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\ManageCourse\\Providers\\ManageCourseServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
